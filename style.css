@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(233, 225, 240);
+}
+#Europe{
+    background-color: aqua;
+}
+.Germany{
+    background-color: burlywood;
+}
+*{
+    text-align: center;
+
+}
+#Berlin{
+    background-color: chocolate;
+}
